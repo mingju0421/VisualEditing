@@ -1,7 +1,7 @@
 module.exports = {
   pages: {
     index: {
-      entry: 'client/main.js',
+      entry: 'client/main.ts',
     },
   },
   // 扩展 weback 配置

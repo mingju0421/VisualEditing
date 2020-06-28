@@ -32,10 +32,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ```bash
 .
-├── dist
-├── mock                    模拟接口
-│   └── mock.ts
 ├── client                  原 src 目录, 前端项目目录
+│   └── plugins             公用组件库
+│   └── common              前端界面对应的静态资源
 ├── server                  服务端项目目录
 ├── engine-template         服务端项目目录
 ├── docs                    预留编写项目文档目录
